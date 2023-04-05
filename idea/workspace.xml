@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9336147a-9696-4f8d-be79-aa7d85a2a7c9" name="Changes" comment="Changes" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BC9cSwX6pAJzX4fyEOV6pjkVNc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "D:/代码/Java实训/demo/src/main/java/com/example/demo",
+    "last_opened_file_path": "C:/nl/第一次实训/后端礼包最终2.0/后端礼包最终2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "SQL Dialects",
+    "spring.configuration.checksum": "cfeab8abfef3f2dfe5839a40dbf9080c",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\nl\第一次实训\后端最终\后端最终\src\main\resources\mappers\help" />
+      <recent name="E:\nl\第一次实训\后端大礼包4.0\后端4.0\src\main\resources\mappers\help" />
+      <recent name="E:\nl\第一次实训\团队\所有后端\demo\src\main\resources\mappers" />
+      <recent name="E:\nl\第一次实训\团队\所有后端\demo（+employee+pd）\src\main\resources\mappers" />
+      <recent name="E:\nl\第一次实训\团队\所有后端\demo（+employee）\src\main\resources\mappers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\一比特\Desktop\demo\src\main\resources\mappers\help" />
+      <recent name="C:\Users\一比特\Desktop\demo\src\main\resources\mappers" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.demo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.demo.utils" />
+      <recent name="com.example.demo.mapper.help" />
+      <recent name="com.example.demo.pojo.help" />
+      <recent name="com.example.demo.pojo" />
+      <recent name="com.example.demo.mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run" />
+      <module name="后端半完全体" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userTest.testdelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="后端半完全体" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.userTest" />
+      <option name="METHOD_NAME" value="testdelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userTest.testselectbyid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="后端半完全体" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.userTest" />
+      <option name="METHOD_NAME" value="testselectbyid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="userTest.testupdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="后端半完全体" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo.test" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.test.userTest" />
+      <option name="METHOD_NAME" value="testupdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="后端半完全体" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.userTest.testselectbyid" />
+        <item itemvalue="JUnit.userTest.testdelete" />
+        <item itemvalue="JUnit.userTest.testupdate" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9336147a-9696-4f8d-be79-aa7d85a2a7c9" name="Changes" comment="" />
+      <created>1656399282285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656399282285</updated>
+      <workItem from="1656399283361" duration="4242000" />
+      <workItem from="1656403578987" duration="4008000" />
+      <workItem from="1656407654169" duration="1932000" />
+      <workItem from="1656414234267" duration="336000" />
+      <workItem from="1656414633473" duration="124000" />
+      <workItem from="1656418735373" duration="12000" />
+      <workItem from="1656429857392" duration="1073000" />
+      <workItem from="1656464956293" duration="1341000" />
+      <workItem from="1656466786017" duration="396000" />
+      <workItem from="1656469823248" duration="2260000" />
+      <workItem from="1656487537305" duration="89000" />
+      <workItem from="1656488136672" duration="9668000" />
+      <workItem from="1656497888681" duration="103000" />
+      <workItem from="1656498001627" duration="34000" />
+      <workItem from="1656501104146" duration="4836000" />
+      <workItem from="1656506089668" duration="3853000" />
+      <workItem from="1656657047983" duration="9133000" />
+      <workItem from="1656671580863" duration="1077000" />
+      <workItem from="1656680194108" duration="3567000" />
+      <workItem from="1656742475823" duration="826000" />
+      <workItem from="1656847243319" duration="6257000" />
+      <workItem from="1656896279900" duration="1269000" />
+      <workItem from="1656897672036" duration="4444000" />
+      <workItem from="1656903406102" duration="6574000" />
+      <workItem from="1656982349306" duration="3368000" />
+      <workItem from="1656992201668" duration="1734000" />
+      <workItem from="1657000598721" duration="10903000" />
+      <workItem from="1657011765980" duration="1448000" />
+      <workItem from="1657019277705" duration="14622000" />
+      <workItem from="1657068520269" duration="7858000" />
+      <workItem from="1657076534408" duration="5137000" />
+      <workItem from="1657092775431" duration="3529000" />
+      <workItem from="1657116570835" duration="1745000" />
+      <workItem from="1657118346594" duration="805000" />
+      <workItem from="1657156504209" duration="6488000" />
+      <workItem from="1657174937280" duration="20712000" />
+      <workItem from="1657202768693" duration="446000" />
+      <workItem from="1657203599149" duration="5870000" />
+      <workItem from="1657240057061" duration="8842000" />
+      <workItem from="1657260903816" duration="3042000" />
+      <workItem from="1657266733881" duration="3973000" />
+      <workItem from="1657280548676" duration="1185000" />
+      <workItem from="1657333405478" duration="3154000" />
+      <workItem from="1657336597908" duration="1522000" />
+      <workItem from="1657338154050" duration="101000" />
+      <workItem from="1657338326948" duration="2333000" />
+      <workItem from="1657340805438" duration="265000" />
+      <workItem from="1657353374752" duration="4038000" />
+      <workItem from="1657357609364" duration="3145000" />
+      <workItem from="1657363684431" duration="631000" />
+      <workItem from="1657442985150" duration="3197000" />
+      <workItem from="1657448278250" duration="1233000" />
+      <workItem from="1657449764687" duration="6389000" />
+      <workItem from="1657456790916" duration="10000" />
+      <workItem from="1657522571782" duration="3180000" />
+      <workItem from="1657526136624" duration="1644000" />
+      <workItem from="1657529217004" duration="1155000" />
+      <workItem from="1657530477915" duration="443000" />
+      <workItem from="1657531029740" duration="4842000" />
+      <workItem from="1657543979706" duration="14000" />
+      <workItem from="1657587319244" duration="2835000" />
+      <workItem from="1657590707686" duration="12548000" />
+      <workItem from="1657611287862" duration="8072000" />
+      <workItem from="1657620143275" duration="9000" />
+      <workItem from="1657623854114" duration="6177000" />
+      <workItem from="1657630925880" duration="642000" />
+      <workItem from="1657674417798" duration="892000" />
+      <workItem from="1657675372262" duration="398000" />
+      <workItem from="1657675785219" duration="5933000" />
+      <workItem from="1657694822080" duration="1750000" />
+      <workItem from="1657696655583" duration="319000" />
+      <workItem from="1657698510275" duration="4462000" />
+      <workItem from="1657704090179" duration="7233000" />
+      <workItem from="1672278264364" duration="1526000" />
+      <workItem from="1672296380277" duration="11954000" />
+      <workItem from="1672383316561" duration="99000" />
+      <workItem from="1672455384635" duration="1940000" />
+      <workItem from="1672457703162" duration="1320000" />
+      <workItem from="1680674831952" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="java:com.google.inject:guice" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate:hibernate-core" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.mysql.jdbc.exceptions.jdbc4.MySQLNonTransientConnectionException" package="com.mysql.jdbc.exceptions.jdbc4" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.xml.sax.SAXParseException" package="org.xml.sax" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/controller/HalfComplete.java</url>
+          <line>604</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.sun.proxy.$Proxy64" memberName="h" />
+        <PinnedItemInfo parentTag="java.lang.NullPointerException" memberName="cause" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="e" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo_iml$DemoApplication.ic" NAME="DemoApplication 覆盖结果" MODIFIED="1657010167017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
